@@ -6,7 +6,7 @@ This project was developed as part of my master's thesis, aiming to create a boo
 # Project Structure
 The project is organized into the following files:
 
-'collaborative_filtering.ipynb:' This Jupyter Notebook contains the implementation of the collaborative filtering recommender.
+"collaborative_filtering.ipynb:" This Jupyter Notebook contains the implementation of the collaborative filtering recommender.
 content-based_filtering.ipynb: This Jupyter Notebook contains the implementation of the content-based filtering recommender.
 hybrid_filtering.ipynb: This Jupyter Notebook contains the implementation of the hybrid filtering recommender.
 eda.ipynb: This Jupyter Notebook includes the exploratory data analysis performed on the dataset.
