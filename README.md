@@ -16,6 +16,8 @@ The project is organized into the following files:
 
 `hybrid_filtering.ipynb:` This Jupyter Notebook contains the implementation of the hybrid filtering recommender.
  
+# Dataset
+The dataset is not public due to General Data Protection Regulation (GDPR) reasons. 
 
 # Acknowledgements
 We would like to acknowledge the support and guidance provided by our thesis advisor and the Leuven Public Library staff during the development of this project.
