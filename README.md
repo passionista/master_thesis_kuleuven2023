@@ -6,7 +6,7 @@ This project was developed as part of our master's thesis, aiming to create a bo
 # Project Structure
 The project is organized into the following files:
 
-`geocoding.ipynb:` This Jupyter Notebook contains the geocoding to retrieve the longitude/latitude of every address.
+`geocoding.ipynb:` This Jupyter Notebook contains the geocoding to retrieve the longitude/latitude of every readers' address.
 
 `EDA_(temporal,_duration,_map).ipynb:` This Jupyter Notebook includes the temporal, and geospatial exploratory data analysis performed on the dataset.
 
