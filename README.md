@@ -1,6 +1,5 @@
-# master_thesis_kuleuven2023
-Reading the Readers: A Book Recommendation System for the Leuven Public Library
-# A Book Recommendation System for Leuven Public Library
+# Master thesis 
+# Reading the Readers: A Book Recommendation System for the Leuven Public Library
 
 This project was developed as part of my master's thesis, aiming to create a book recommendation system for the Leuven Public Library. The system incorporates collaborative filtering, content-based filtering, and hybrid filtering recommenders to provide personalized book recommendations to the readers.
 
