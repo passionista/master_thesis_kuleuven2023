@@ -12,7 +12,7 @@ The project is organized into the following files:
 
 `collaborative_filtering.ipynb:` This Jupyter Notebook contains the implementation of the collaborative filtering recommender.
 
-`content-based_filtering.ipynb:` This Jupyter Notebook contains the implementation of the content-based filtering recommender.
+`content_based_filtering_model.ipynb:` This Jupyter Notebook contains the implementation of the content-based filtering recommender.
 
 `hybrid_filtering.ipynb:` This Jupyter Notebook contains the implementation of the hybrid filtering recommender.
  
